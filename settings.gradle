@@ -1,0 +1,6 @@
+include ':0904_ProgressDialog_OnShake'
+include ':0903 ProgressDialog'
+include ':09-02 AlertDialog'
+include ':0905_LoginDialog'
+include ':0901_DatePickerDlg'
+rootProject.name = "CH09-Dialog"

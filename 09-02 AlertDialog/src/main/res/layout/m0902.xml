@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Silver"
+    tools:context=".M0902" >
+
+    <Button
+        android:id="@+id/m0902_b001"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="50dp"
+        android:background="@android:drawable/button_onoff_indicator_off"
+        android:text="@string/m0902_b001" />
+
+    <Button
+        android:id="@+id/m0902_b002"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/m0902_b001"
+        android:layout_alignStart="@+id/m0902_b001"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="20dp"
+        android:background="@android:drawable/button_onoff_indicator_off"
+        android:text="@string/m0902_b002" />
+
+    <TextView
+        android:id="@+id/m0902_t001"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/m0902_b002"
+        android:layout_alignStart="@+id/m0902_b002"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/m0902_t001"
+        android:textColor="@color/Aqua"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/myname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:text="@string/myname"
+        android:textColor="@color/Navy"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+</RelativeLayout>

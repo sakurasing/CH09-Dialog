@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">登入</string>
+    <string name="m0905_b001">登入系統</string>
+    <string name="m0905_t001">使用者名稱:</string>
+    <string name="m0905_t002">密碼：</string>
+    <string name="m0905_btnOK">確定登入</string>
+    <string name="m0905_btnCancel">取消</string>
+    <string name="m0905_ans">你輸入:</string>
+    <string name="title">☆        登入作業</string>
+</resources>

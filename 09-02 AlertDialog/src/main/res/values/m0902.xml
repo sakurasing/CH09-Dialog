@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m0902_title">對話盒</string>
+    <string name="m0902_b001">AlertDialog 衍生(子)類別</string>
+    <string name="m0902_b002">AlertDialog Builder 類別</string>
+    <string name="m0902_t001">啟動:</string>
+    <string name="m0902_positive">是</string>
+    <string name="m0902_negative">否</string>
+    <string name="m0902_neutral">取消</string>
+    <string name="m0902_click">按下</string>
+    <string name="m0902_button">按鈕</string>
+    <string name="m0902_test01">這是測試長按效果</string>
+</resources>
